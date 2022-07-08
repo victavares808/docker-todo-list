@@ -1,2 +1,2 @@
-docker network inspect bridge
 
+docker start 01 container
