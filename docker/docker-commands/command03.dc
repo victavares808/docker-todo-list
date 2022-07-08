@@ -1,4 +1,3 @@
 
 docker ps -f name=01container
 
-docker container rm 01container
