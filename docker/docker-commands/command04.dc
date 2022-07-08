@@ -1,2 +1,3 @@
-docker network inspect bridge
+
+docker container exec 01container cat /etc/os-release
 
